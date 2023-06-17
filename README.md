@@ -1,3 +1,5 @@
+# Tech News!
+<h3><a href="https://chloeenn.github.io/Tech-News/">Live Demo</a></h3>
 <img width="1072" alt="demo1" src="https://github.com/chloeenn/Tech-News/assets/95497824/a013aa19-546d-4d43-98fe-df55bb1ce8eb">
 <img width="1072" alt="demo2" src="https://github.com/chloeenn/Tech-News/assets/95497824/b9be6ea7-265b-44be-9d96-517347583998">
 <img width="1072" alt="demo3" src="https://github.com/chloeenn/Tech-News/assets/95497824/a0d3a928-6763-4a7d-a16c-a23305a1d351">
