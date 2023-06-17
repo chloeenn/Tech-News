@@ -1,0 +1,68 @@
+.fit-cover {
+  object-fit: cover;
+}
+.card{
+  overflow: hidden;
+}
+
+.fit-cover:hover{
+  transform: scale(1.1);
+}
+.card-title:hover{
+  opacity: 80%;
+  cursor: pointer;
+}
+
+
+
+
+
+
+/*Sign_in.html*/
+.login__field p {
+    font-weight: 650;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.login__field {
+    padding: 1em 0em;
+    position: relative;
+}
+
+.login__input {
+    border: 1px solid black;
+    background: none;
+    padding: 0.5em 1em;
+    width: 500px;
+    transition: .2s;
+}
+
+.login__input:active,
+.login__input:focus,
+.login__input:hover {
+    outline: none;
+    border-bottom-color: #6A679E;
+}
+
+.login__submit {
+    color: #848482;
+    border: 1px solid black;
+    width: 500px;
+    padding: 0.5em 0.5em 0.5em 1.5em;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.login__submit:active,
+.login__submit:focus,
+.login__submit:hover {
+    background-color: #2B2B2B;
+    color: white;
+    outline: none;
+}
+
