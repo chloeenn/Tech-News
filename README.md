@@ -3,3 +3,4 @@
 <img width="1072" alt="demo3" src="https://github.com/chloeenn/Tech-News/assets/95497824/b692557a-4b20-45e5-96c9-d3ec8e7024ef">
 <img width="1072" alt="demo4" src="https://github.com/chloeenn/Tech-News/assets/95497824/acfa6765-05e5-4152-8222-fa71fe445418">
 <img width="1072" alt="demo5" src="https://github.com/chloeenn/Tech-News/assets/95497824/7808373d-acc0-418e-849b-8475edd4801f">
+<img width="1072" alt="demo6" src="https://github.com/chloeenn/Tech-News/assets/95497824/89efaa88-5838-42fd-8799-22c6ecf3cf55">
